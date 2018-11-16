@@ -1,0 +1,27 @@
+{
+	"author": "Tiago Carvalho",
+	"name": "fcc-learn-npm-package-json",
+	"description": "A project that does something awesome",
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	],
+	"version": "1.2",
+	"license": "MIT",
+	"dependencies": {
+		
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "8.11.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
